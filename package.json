@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/idaisukee/Hiyositiyau.page/issues"
   },
-  "homepage": "https://github.com/idaisukee/Hiyositiyau.page#readme"
+  "homepage": "https://github.com/idaisukee/Hiyositiyau.page#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
