@@ -6,8 +6,6 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		hello
-		hola
-		bye
+		<h1>Hiyositiyau.page ( 日吉町 )</h1>
 	</body>
 </html>
